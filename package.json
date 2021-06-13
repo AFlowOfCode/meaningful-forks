@@ -20,11 +20,8 @@
   },
   "devDependencies": {
     "del": "^4.1.0",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
-    "gulp-sourcemaps": "^2.6.5",
-    "gulp-uglify": "^3.0.2",
-    "pump": "^3.0.0",
-    "uglify-es": "^3.3.9"
+    "gulp-terser": "^2.0.1"
   }
 }

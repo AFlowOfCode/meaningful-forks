@@ -5,6 +5,6 @@
 // @version      1.2.0
 // @description  Sort Github fork lists by the number of stars and commits ahead from the source repo.
 // @author       Kevin Li + community
-// @match        https://github.com/*/network/members
+// @match        https://github.com/*
 // @grant        none
 // ==/UserScript==
